@@ -9,11 +9,7 @@
 - **Treasure Collection**: Discover hidden treasures that increase your score.
 - **Simple and Aesthetic Console Output**: Enjoy a clean and engaging user interface.
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 
 - A C++ compiler (e.g., g++, clang++)
 - Basic knowledge of C++ programming
-
-
