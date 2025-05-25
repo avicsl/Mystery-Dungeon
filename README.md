@@ -16,9 +16,4 @@
 - A C++ compiler (e.g., g++, clang++)
 - Basic knowledge of C++ programming
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/mystery-dungeon.git
-   cd mystery-dungeon
